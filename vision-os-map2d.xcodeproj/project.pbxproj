@@ -13,6 +13,7 @@
 		1575CB1B2C01E8B700488C04 /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1575CB1A2C01E8B700488C04 /* ImmersiveView.swift */; };
 		1575CB1D2C01E8B800488C04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1575CB1C2C01E8B800488C04 /* Assets.xcassets */; };
 		1575CB202C01E8B800488C04 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1575CB1F2C01E8B800488C04 /* Preview Assets.xcassets */; };
+		1575CB282C01EA9900488C04 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1575CB272C01EA9900488C04 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1575CB1C2C01E8B800488C04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1575CB1F2C01E8B800488C04 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1575CB212C01E8B800488C04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1575CB272C01EA9900488C04 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				1575CB162C01E8B700488C04 /* vision_os_map2dApp.swift */,
+				1575CB272C01EA9900488C04 /* MapView.swift */,
 				1575CB182C01E8B700488C04 /* ContentView.swift */,
 				1575CB1A2C01E8B700488C04 /* ImmersiveView.swift */,
 				1575CB1C2C01E8B800488C04 /* Assets.xcassets */,
@@ -158,6 +161,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1575CB192C01E8B700488C04 /* ContentView.swift in Sources */,
+				1575CB282C01EA9900488C04 /* MapView.swift in Sources */,
 				1575CB172C01E8B700488C04 /* vision_os_map2dApp.swift in Sources */,
 				1575CB1B2C01E8B700488C04 /* ImmersiveView.swift in Sources */,
 			);

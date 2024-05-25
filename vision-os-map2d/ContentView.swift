@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  vision-os-map2d
-//
-//  Created by DSV on 2024-05-25.
-//
-
 import SwiftUI
 import RealityKit
 import RealityKitContent
